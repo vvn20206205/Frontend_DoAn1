@@ -1,15 +1,15 @@
-Báo cáo đồ án 1 lần 1 (từ 02/04/2023 đến 15/04/2023) 
+### Báo cáo đồ án 1 lần 1 (từ 02/04/2023 đến 15/04/2023) 
 Họ và tên: Vũ Văn Nghĩa 
 MSSV: 20206206205 
-NỘI DUNG BÁO CÁO: 
-1.      Em đang tìm hiểu kiến thức cơ bản React và JavaScript 
-2.      Xây dựng giao diện font - end (html, css, js). Em chưa làm xong tất cả các chức năng. 
+### NỘI DUNG BÁO CÁO: 
+### 1.Em đang tìm hiểu kiến thức cơ bản React và JavaScript 
+### 2.Xây dựng giao diện font - end (html, css, js). Em chưa làm xong tất cả các chức năng. 
 •	Mã nguồn: https://github.com/vvn20206205/Frontend_DoAn1 
 •	Demo: https://vvn20206205.github.io/Frontend_DoAn1 
-3.       Công nghệ em dự định tìm hiểu để xây dựng làm website: 
+### 3. Công nghệ em dự định tìm hiểu để xây dựng làm website: 
 •	Back - end: Express JS và mySQL 
 •	Font - end: React JS  
-4.       Mô tả nghiệp vụ:  
+### 4. Mô tả nghiệp vụ:  
 - Một cửa hàng bán tranh cần xây dựng quản lí tranh. Sản phẩm tranh gồm (id, tiêu đề, giá, kích thước, mô tả, đường dẫn file ảnh, id thể loại, id tác giả) 
 ===> SQL: authors (id, name, date_of_birth, gender, phone_number, email, address, image) 
 ===> SQL: categories (id, name) 
@@ -48,7 +48,7 @@ NỘI DUNG BÁO CÁO:
 •	Xuất báo cáo tổng quan về quản lí
 
  
-5.      Dự định kế hoạch 2 tuần tiếp theo: 
+### 5.Dự định kế hoạch 2 tuần tiếp theo: 
 •	Do em đang tìm hiểu cả Back - end (Express JS , mySQL) và Font - end (React JS ) nên em dự định xây dựng ứng dụng CRUD đơn giản: ví dụ Todo App 
 •	Tiếp tục làm giao diện Font - end của chương trình 
 •	Thiết kế UML Diagrams (Use Case Diagrams,Activity Diagrams,Sequence Diagrams,Class Diagrams) 
